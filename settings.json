@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mojosmp2616.aternos.me",
-    "port"48045": ,
+    "port"48045: ,
     "version": "1.26.2",
     "try-creative": false
   },
